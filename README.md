@@ -6,8 +6,8 @@ Portfólio desenvolvido para o Laboratório 01 de Desenvolvimento e Integração
 
 ## Links
 
-- Site publicado: **a informar**.
-- Repositório deste portfólio: **a informar**.
+- [Site publicado](https://meu-portfolio-eight-neon.vercel.app/)
+- [Repositório do portfólio](https://github.com/matheusnNicoli/Meu-portfolio)
 - [Wireframes no Figma](https://www.figma.com/design/ebGutL4TKDFrBVKlZf8rde/?node-id=2-105)
 - [GitHub](https://github.com/matheusnNicoli)
 - [LinkedIn](https://www.linkedin.com/in/matheus-coelho-749590206/)
